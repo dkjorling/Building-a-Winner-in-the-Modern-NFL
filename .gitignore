@@ -1,0 +1,11 @@
+*.xlsx
+*.xls
+*.so
+*.o
+*.Rproj
+*.pptx
+*.DS_Store
+login.R
+.Rproj.user/
+.RData
+.Rhistory
